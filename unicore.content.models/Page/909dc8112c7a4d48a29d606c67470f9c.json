@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Nous ne pouvons vaincre le paludisme si nous ne comprenons pas ce que c'est. Informez-vous sur cette maladie qui touche 200 millions de personnes par an.", 
+  "description": "Nous ne pouvons pas vaincre le paludisme si nous ne comprenons pas ce que c'est. Informez-vous sur cette maladie qui touche 200 millions de personnes par an.", 
   "language": "fre_SN", 
   "title": "Qu'est-ce-que le paludisme ?", 
   "primary_category": "a484af1f45de45ab9b6f6cd88efdbdfb", 
   "created_at": "2015-01-21T14:43:23+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-06-11T23:59:54.673799+00:00", 
+  "modified_at": "2015-07-06T10:17:41.006100+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
